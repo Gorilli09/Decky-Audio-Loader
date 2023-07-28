@@ -1,0 +1,10 @@
+{
+  "name": "Meme Sounds",
+  "description": "If you love Memes too much, you'll might enjoy this",
+  "author": "Gorilli09",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
