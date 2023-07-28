@@ -1,0 +1,10 @@
+{
+  "name": "Windows XP Installation Theme",
+  "description": "Plays when you first set up your Windows XP computer.",
+  "author": "Gorilli09",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
